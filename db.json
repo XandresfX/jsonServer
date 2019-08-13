@@ -1,40 +1,36 @@
 {
-  "Sensores": [
-  { 
-    "Movimiento": {
-      "id": "0",
+  "Sensores":[
+     {
+      "id": 0,
+      "nombre" : "Movimiento",
       "estado": "activo",
       "tiempo": "20",
       "area": "sala",
       "color": "blue"
-    }
-},
-{   
-    "Temperatura": {
-      "id": "1",
+    },
+     {
+      "id": 1,
+      "nombre": "Temperatura",
       "estado": "activo",
       "temperatura": "30",
       "area": "sala",
       "color": "red"
-    }
-},
-{ 
-  "Puerta": {
-      "id": "2",
+    },
+{
+      "id": 2,
+      "nombre": "Puerta",
       "estado": "activo",
       "puerta": "cerrada",
       "area": "sala",
       "color": "white"
-    }
 },
-{ 
-  "Sirena": {
+{
       "id": "3",
+      "nombre": "Sirena",
       "estado": "activo",
       "Sirena": "apagada",
       "area": "sala",
       "color": "black"
-    }
 }
 ]
 }
