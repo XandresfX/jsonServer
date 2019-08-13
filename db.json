@@ -1,0 +1,38 @@
+[
+  {
+    "Movimiento": {
+      "id": "0",
+      "estado": "activo",
+      "tiempo": "20",
+      "area": "sala",
+      "color": "blue"
+    }
+},
+{
+    "Temperatura": {
+      "id": "1",
+      "estado": "activo",
+      "temperatura": "30",
+      "area": "sala",
+      "color": "red"
+    }
+},
+{
+  "Puerta": {
+      "id": "2",
+      "estado": "activo",
+      "puerta": "cerrada",
+      "area": "sala",
+      "color": "white"
+    }
+},
+{
+  "Sirena": {
+      "id": "3",
+      "estado": "activo",
+      "Sirena": "apagada",
+      "area": "sala",
+      "color": "black"
+    }
+}
+]
