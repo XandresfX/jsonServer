@@ -1,6 +1,6 @@
 {
   "Sensores": [
-  { "id": 0,
+  { 
     "Movimiento": {
       "id": "0",
       "estado": "activo",
@@ -9,7 +9,7 @@
       "color": "blue"
     }
 },
-{   "id": 1,
+{   
     "Temperatura": {
       "id": "1",
       "estado": "activo",
@@ -18,7 +18,7 @@
       "color": "red"
     }
 },
-{ "id": 2,
+{ 
   "Puerta": {
       "id": "2",
       "estado": "activo",
@@ -27,7 +27,7 @@
       "color": "white"
     }
 },
-{ "id": 3,
+{ 
   "Sirena": {
       "id": "3",
       "estado": "activo",
