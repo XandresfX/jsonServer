@@ -4,7 +4,7 @@
       "id": 0,
       "nombre" : "Movimiento",
       "estado": "activo",
-      "tiempo": "20",
+      "movimiento": "activo",
       "area": "sala",
       "color": "blue"
     },
@@ -25,10 +25,10 @@
       "color": "white"
 },
 {
-      "id": "3",
+      "id": 3,
       "nombre": "Sirena",
       "estado": "activo",
-      "Sirena": "apagada",
+      "sirena": "apagada",
       "area": "sala",
       "color": "black"
 }
