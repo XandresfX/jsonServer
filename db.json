@@ -12,7 +12,7 @@
       "id": 1,
       "nombre": "Temperatura",
       "estado": "activo",
-      "temperatura": "30",
+      "temperatura": "30°",
       "area": "sala",
       "color": "red"
     },
